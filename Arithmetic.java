@@ -1,4 +1,4 @@
-
+import acm.program.*;
 /**
  * Write a description of class Arithmetic here.
  *
