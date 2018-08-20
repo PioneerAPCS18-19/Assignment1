@@ -12,3 +12,5 @@ Area = 30 meters squared
 Circumference = 94.2477 meters
 Area = 706.85775 meters squared
 ```
+
+**Note: it is fine if yours says 30.0 instead of 30.**
